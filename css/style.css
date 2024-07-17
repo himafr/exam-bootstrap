@@ -1,0 +1,47 @@
+body{
+margin: 0;
+}
+.alert-primary{
+    min-height: 100vh;
+}
+.alert-success{
+    padding-top: 2px ;
+    padding-bottom: 2px ;
+    margin:5px;
+}
+.alert-danger{
+    padding-top: 2px ;
+    padding-bottom: 2px ;
+    margin:5px;
+}
+.alert-warning{
+    padding-top: 2px ;
+    padding-bottom: 2px ;
+    margin:5px;
+}
+.alert-secondary{
+    margin-bottom: 5px;
+}
+.alert{
+    padding: 0; 
+    margin-bottom: 0;
+    padding: 8px 12px 0 12px;
+}
+.row{
+    margin: 0;
+}
+.degree{
+    background-color: rgb(205, 255, 176);
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    position: fixed;
+    right: 10px;
+    top: 10px;
+z-index: 11;
+align-content: center;
+text-align: center;
+}
+.next{
+    text-align: center;
+}
