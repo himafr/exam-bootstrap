@@ -84,6 +84,7 @@ all.forEach((element, index) => {
 });
 
 function rest(){
+  window.location.reload();
 }
 
 function rand() {
